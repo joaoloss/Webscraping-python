@@ -1,6 +1,6 @@
 # webscraping-python
-## Descrição:
-O programa tem como objetivo realizar a "raspagem" de uma página de usuário do GitHub.
-## Funcionamento:
-- Entrada: nome de um usuário do github.
-- Saída: link com a foto de perfil, quantidade e nome dos repositórios públicos.
+## Description:
+It's a simple program to test the basics about web scraping using python.
+## Operation:
+- Input: a github username.
+- Output: link to profile photo and the number and names of public repositories.
